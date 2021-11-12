@@ -1,4 +1,4 @@
-# Project objectives 
+# Project ( Discount Analysis) objectives 
 ## Introduction
 In this project, the complexity of these tasks, especially is data cleaning section, will require  to use Python with panads, matplot and seaborn, rather than SQL.
 
